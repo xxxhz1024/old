@@ -2,5 +2,5 @@ mode=1
 name=我卖公理呢？
 read=避开障碍物，冲向终点吧！
 width=5
-/
+//
 pass
